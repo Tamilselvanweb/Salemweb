@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-size {
+    font-size: 13px;
+}
+
+.show-con {
+    width: 30px;
+}
+.nav-30 li a:hover
+{
+    background-color:black;
+
+}
+.nav-30 a:hover
+{
+    color:white !important;
+}
+
+
+a {
+    color: black !important;
+}
+.bg-5
+{
+    height:80px;
+    background-color: #111111;
+}
+.nav li:hover
+{
+    border-bottom:1px solid white;
+}
+.a-1 a:hover
+{
+    border-bottom:1px solid red;
+}
+
+.menulist ul li a:hover {
+    background-color: #9e6b22;
+    color: white !important
+}
+.a-1:hover
+{
+    color:white !important;
+}
